@@ -650,7 +650,7 @@ footer .footer-alt a {
 
 .about-desc {
   padding-top: 100px;
-  max-width: 350px;
+  /* max-width: 350px; */
 }
 
 .about .row {
